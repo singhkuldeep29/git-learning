@@ -1,2 +1,5 @@
-a = "hello world"
-print (a)
+ok = "hello world"
+print (ok)
+a = 5
+k = 7
+ak = 12
